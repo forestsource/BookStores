@@ -1,3 +1,5 @@
+/*http://jsbin.com/loxetegixe/edit?js,console*/
+
 /*jshint esnext: true */
 
 class Book {
